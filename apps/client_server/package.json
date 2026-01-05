@@ -1,5 +1,5 @@
 {
-  "name": "client-server",
+  "name": "client_server",
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",

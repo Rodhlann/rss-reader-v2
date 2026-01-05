@@ -2,5 +2,8 @@
   "installation": {
     "version": "22.3.3"
   },
-  "$schema": "./node_modules/nx/schemas/nx-schema.json"
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "plugins": [
+    "@monodon/rust"
+  ]
 }

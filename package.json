@@ -1,10 +1,12 @@
 {
   "name": "rss-reader-v2",
+  "version": "0.1.0",
   "private": true,
   "workspaces": [
     "apps/*"
   ],
   "devDependencies": {
+    "@monodon/rust": "^2.3.0",
     "nx": "latest"
   }
 }
