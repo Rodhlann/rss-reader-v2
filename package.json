@@ -1,0 +1,10 @@
+{
+  "name": "rss-reader-v2",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "nx": "latest"
+  }
+}
