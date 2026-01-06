@@ -1,0 +1,7 @@
+name = "feed-api"
+main = "src/lib.rs" 
+
+[[d1_databases]]
+binding = "DB"
+database_name = "my-db"
+database_id = "xxxx-xxxx-xxxx"
